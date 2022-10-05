@@ -1,5 +1,9 @@
 # Arcadia
+
 School project which includes probability games i.e Roll The Dice. Rock Paper Scissor, Roulette, Blackjack with a menu flow and inbuilt currency
+
+Credits to [@mjhea0](https://github.com/mjhea0) for the [structure of the blackjack code](https://gist.github.com/mjhea0/5680216)
+
 MIT License
 
 Copyright (c) 2022 GoldMight948
